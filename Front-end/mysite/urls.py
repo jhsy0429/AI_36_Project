@@ -8,6 +8,8 @@ def index(request):
 urlpatterns = [
     path('',index),
     path('admin/', admin.site.urls),
+    path('privacy_policy/', include("privacy_policy.urls")),
+    path('terms_of_service/', include("terms_of_service.urls")),
 ]
 
 from django.conf import settings
