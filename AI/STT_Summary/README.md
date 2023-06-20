@@ -2,7 +2,7 @@
 
 모델 이외의 파일들 : 'https://drive.google.com/file/d/1rjvufkJXYQUyFsJQe3ZjPDuf29DgRiOO/view?usp=sharing'
 
-STT + SUMMARY 파일들(다 합친 파일) : https://drive.google.com/file/d/1valuOzN_TLJfLwvu21BIN2gVN-llG7UZ/view?usp=sharing
+**STT + SUMMARY 파일들(다 합친 파일) : https://drive.google.com/file/d/1valuOzN_TLJfLwvu21BIN2gVN-llG7UZ/view?usp=sharing**
 
 모델 적용 방법
 1. https://huggingface.co/lcw99/t5-large-korean-text-summary/tree/main <-- 여기 들어가서 모든 파일들을 다운받아준다.
