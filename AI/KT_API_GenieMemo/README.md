@@ -1,4 +1,5 @@
-## KT 각종 api 키들
+#![img_kt_cloud_new](https://github.com/jisoo29/AI_36_Project/assets/106011096/d93c7844-42bc-40aa-ba16-c1a4e5416a86)
+# KT 각종 api 키들
 
 Client ID : 239ea532-a145-45f4-8295-ee4876877fec
 
