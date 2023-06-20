@@ -1,4 +1,4 @@
-KT
+KT 각종 api 키들
 Client ID : 239ea532-a145-45f4-8295-ee4876877fec
 
 Client Key : 0fb26b7f-9b98-53cc-bc0f-eccf6988a793
