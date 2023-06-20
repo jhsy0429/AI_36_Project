@@ -16,6 +16,6 @@ conda install -c conda-forge portaudio python=3 pyaudio grpcio grpcio-tools
 
 그리고 proto 폴더 들어가서
 
-(아나콘다 power shell 들어간 후, cd proto파일 경로 지정)
+(아나콘다 power shell 들어간 후, cd proto파일 있는 폴더로 경로 지정)
 
 python -m grpc_tools.protoc -I . --python_out=. --grpc_python_out=. ktaiapi.proto
