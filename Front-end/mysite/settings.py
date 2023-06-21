@@ -26,7 +26,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'privacy_policy',
-    'terms_of_service'
+    'terms_of_service',
+    'join',
     
 ]
 

@@ -10,6 +10,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('privacy_policy/', include("privacy_policy.urls")),
     path('terms_of_service/', include("terms_of_service.urls")),
+    path('join/',include('join.urls')), # 회원가입
 ]
 
 from django.conf import settings
