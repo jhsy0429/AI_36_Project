@@ -28,7 +28,8 @@ INSTALLED_APPS = [
     'privacy_policy',
     'terms_of_service',
     'join',
-    
+    'home',
+    'notice',
 ]
 
 MIDDLEWARE = [

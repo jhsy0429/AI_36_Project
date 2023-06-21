@@ -11,6 +11,8 @@ urlpatterns = [
     path('privacy_policy/', include("privacy_policy.urls")),
     path('terms_of_service/', include("terms_of_service.urls")),
     path('join/',include('join.urls')), # 회원가입
+    path('home/',include('home.urls')), # 홈
+    path('notice/',include('notice.urls')), # 공지사항
 ]
 
 from django.conf import settings
